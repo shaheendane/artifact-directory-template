@@ -3,5 +3,5 @@
     "project-repository": "https://github.com/chinkevin/DSC180_sleep_apnea",
     "dockerhub-repository": "chinkevin/sleep_capstone:latest",
     "project-website-url": "https://yilang08.github.io/sleepstage/",
-    "project-website-code": "https://github.com/YilanG08/sleepstage/blob/main/index.md"
+    "project-website-code": "https://raw.githubusercontent.com/YilanG08/sleepstage/main/index.md"
 }
